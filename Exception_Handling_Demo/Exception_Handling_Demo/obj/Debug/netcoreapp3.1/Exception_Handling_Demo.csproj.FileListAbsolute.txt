@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\bin\Debug\netcoreapp3.1\Exception_Handling_Demo.exe
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\bin\Debug\netcoreapp3.1\Exception_Handling_Demo.deps.json
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\bin\Debug\netcoreapp3.1\Exception_Handling_Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\bin\Debug\netcoreapp3.1\Exception_Handling_Demo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\bin\Debug\netcoreapp3.1\Exception_Handling_Demo.dll
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\bin\Debug\netcoreapp3.1\Exception_Handling_Demo.pdb
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\obj\Debug\netcoreapp3.1\Exception_Handling_Demo.csprojAssemblyReference.cache
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\obj\Debug\netcoreapp3.1\Exception_Handling_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\obj\Debug\netcoreapp3.1\Exception_Handling_Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\obj\Debug\netcoreapp3.1\Exception_Handling_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\obj\Debug\netcoreapp3.1\Exception_Handling_Demo.dll
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\obj\Debug\netcoreapp3.1\Exception_Handling_Demo.pdb
+C:\Users\johnd\Desktop\TA_repo\25_Exception_Handling\Exception_Handling_Demo\Exception_Handling_Demo\obj\Debug\netcoreapp3.1\Exception_Handling_Demo.genruntimeconfig.cache
